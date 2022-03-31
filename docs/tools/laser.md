@@ -42,7 +42,8 @@ Our Chinese laser, manufactured by Omtech, features:
     
 ## Prohibited materials
 
-The following materials should _NEVER_ be placed into the laser cutter.
+!!! warning ""
+    The following materials should _NEVER_ be placed into the laser cutter.
 
 |Material|Reason|
 |--------|------|
@@ -54,8 +55,6 @@ The following materials should _NEVER_ be placed into the laser cutter.
 |ABS|Burning ABS releases hydrogen cyanide gas|
 |self-laminated or glued|Anything you laminated yourself or glued together is a fire hazard|
 |low-grade plywood|Excessive bowing can cause the gantry to catch on the wood being cut|
-
-!!! warning 
 
 ## Pre-flight checklist
 
