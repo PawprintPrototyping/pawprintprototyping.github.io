@@ -39,6 +39,23 @@ Our Chinese laser, manufactured by Omtech, features:
     * Modifying or hacking the laser cutter and its accessories without board approval.
     * Bypassing interlocks or safety features.
     * Cutting materials that may harm humans or equipment.
+    
+## Prohibited materials
+
+The following materials should _NEVER_ be placed into the laser cutter.
+
+|Material|Reason|
+|--------|------|
+|polycarbonate|Melts instead of burns, releases poison gas|
+|vinyl|Melts instead of burns, releases poison gas|
+|PVC|Melts instead of burns, releases chlorine gas|
+|Neoprene|Sublimated vapors damage the optics|
+|Moleskin notebooks|Contains chlorine, releases poison gas|
+|ABS|Burning ABS releases hydrogen cyanide gas|
+|self-laminated or glued|Anything you laminated yourself or glued together is a fire hazard|
+|low-grade plywood|Excessive bowing can cause the gantry to catch on the wood being cut|
+
+!!! warning 
 
 ## Pre-flight checklist
 
@@ -88,4 +105,5 @@ This section is often copied from the user's manual.
 
 |Date | Event |
 |-----|-------|
+|2022-03-30|Drained and purged water from cooler.  There is some notable residue possibly from the silicone tubing connecting the chiller.  Something to keep an eye on.|
 |||
