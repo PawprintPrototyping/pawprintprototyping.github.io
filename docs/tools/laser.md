@@ -93,6 +93,7 @@ Our Chinese laser, manufactured by Omtech, features:
 |Member Name | Certified By | Date           |
 |------------|--------------|----------------|
 |Rechner Fox | -            | 2020-04-01     |
+|Kataze Skunk| Rechner Fox  | 2021-12-15     |
 
 
 # Maintenance
