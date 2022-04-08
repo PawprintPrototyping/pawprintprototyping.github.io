@@ -94,6 +94,10 @@ Our Chinese laser, manufactured by Omtech, features:
 |------------|--------------|----------------|
 |Rechner Fox | -            | 2020-04-01     |
 |Kataze Skunk| Rechner Fox  | 2021-12-15     |
+|Bokeh       | Kataze Skunk | 2022-04-07     |
+|Mojake      | Kataze Skunk | 2022-04-07     |
+|Amp         | Kataze Skunk | 2022-04-07     |
+|ket         | Kataze Skunk | 2022-04-07     |
 
 
 # Maintenance
