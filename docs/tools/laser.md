@@ -98,6 +98,7 @@ Our Chinese laser, manufactured by Omtech, features:
 |Mojake      | Kataze Skunk | 2022-04-07     |
 |Amp         | Kataze Skunk | 2022-04-07     |
 |ket         | Kataze Skunk | 2022-04-07     |
+|Tigerpaw    | Kataze Skunk | 2022-04-22     |
 
 
 # Maintenance
