@@ -1,4 +1,5 @@
 site_name: Pawprint Member Wiki
+repo_url: https://github.com/PawprintPrototyping/pawprintprototyping.github.io
 
 plugins:
   - search
