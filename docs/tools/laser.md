@@ -103,12 +103,12 @@ Our Chinese laser, manufactured by Omtech, features:
 
 # Maintenance
 
-This section is often copied from the user's manual.
+* [Routine Cleaning](https://www.youtube.com/watch?v=aJEYHZ4Uurc)
 
 
 # Tool History
 
-|Date | Event |
-|-----|-------|
-|2022-03-30|Drained and purged water from cooler.  There is some notable residue possibly from the silicone tubing connecting the chiller.  Something to keep an eye on.|
-|||
+|Date | Event | Noted By |
+|-----|-------|-------|
+|2022-03-30|Drained and purged water from cooler.  There is some notable residue possibly from the silicone tubing connecting the chiller.  Something to keep an eye on.| Rechner
+|2022-05-26| Cleaned optics, confirmed laser beam alignment| Kataze
