@@ -113,5 +113,6 @@ Our Chinese laser, manufactured by Omtech, features:
 
 |Date | Event | Noted By |
 |-----|-------|-------|
-|2022-03-30|Drained and purged water from cooler.  There is some notable residue possibly from the silicone tubing connecting the chiller.  Something to keep an eye on.| Rechner
-|2022-05-26| Cleaned optics, confirmed laser beam alignment| Kataze
+|2022-03-30 | Drained and purged water from cooler.  There is some notable residue possibly from the silicone tubing connecting the chiller.  Something to keep an eye on.| Rechner
+|2022-05-26 | Cleaned optics, confirmed laser beam alignment| Kataze
+|2023-05-30 | Cleaned optics, greased rails, and confirmed laser alignment. | Rechner
