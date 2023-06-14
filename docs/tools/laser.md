@@ -78,7 +78,40 @@ Our Chinese laser, manufactured by Omtech, features:
 
 ### Basic Operation Checklist
 
-(FIXME)
+Select an appropriate power and speed for the material you are cutting.  Here are some good starting guidelines for various materials below.  Some materials are highly variable, especially wood.  Do some test cuts and engraves to dial in the right settings.  More feeds and speeds can be found [here](https://cdn.shopifycdn.net/s/files/1/0280/0012/4993/files/Average_Parameter_Settings.pdf.pdf?v=1632564433)
+
+#### Engraving
+
+|Material  |  Speed  |  Power  |
+|----------|---------|---------|
+|Clear Acrylic| 325 mm/s | 18% |
+|Wood| 200 mm/s | 19%  |
+|Glass| 225 mm/s | 18% |
+|Leather| 400 mm/s | 16% |
+|Faux Leather| 425 mm/s | 15% |
+|Tile/Stones|  145 mm/s | 18% |
+
+#### Cutting
+
+| Material    | Thickness | Speed  | Power |
+|-------------|-----------|--------|-------|
+| Acrylic     | 1/16"     | 25 mm/s| 18%   |
+| Acrylic     | 1/8"      | 12 mm/s| 25%   |
+| Acrylic     | 1/4"      | 6 mm/s | 35%   |
+| Arcylic     | 1/2"      | 4 mm/s | 45%   |
+| Arylic      | 3/4"      | 3 mm/s | 55%   |
+| Arcylic     | 1"        | 1 mm/s | 60%   |
+| Birch wood  | 1/16"     | 25 mm/s| 20%   |
+| Birch wood  | 1/8"      | 12 mm/s| 25%   |
+| Birch wood  | 1/4"      | 7 mm/s | 30%   |
+| Birch wood  | 1/2"      | 5 mm/s | 35%   |
+| Birch wood  | 3/4"      | 4 mm/s | 43%   |
+| Birch wood  | 1"        | 3 mm/s | 47%   |
+
+
+#### Set focal distance
+
+Our laser has an automatic focus setting. Place the material under the Z-axis sensor, press `Fn`, and use the up/down arrow to highlight `Auto Focus` setting, and press `Enter` to set the Z-height.  This will place the focus exactly at the top of the material, and set the machine Z-height to 0.  Use this setting for engraving.  For cutting, especially thick material, you will need to adjust the Z-height to the center of the material.  However since the auto-focus sets the height of the bed to the surface, and won't let you back-drive the bed to Z < 0, you will need to place another piece of material of the same thickness before using the auto-focus, and then back-drive the bed down (3/2) × (material thickness).
 
 
 ## Post-flight checklist
@@ -102,6 +135,7 @@ Our Chinese laser, manufactured by Omtech, features:
 |BrokenWing  | Rechner Fox  | 2022-05-27     |
 |Robin       | Rechner Fox  | 2022-05-27     |
 |Dulse       | Rechner Fox  | 2023-05-16     |
+|Geo         | Mojake       | 2023-06-13     |
 
 
 # Maintenance
