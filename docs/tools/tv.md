@@ -2,10 +2,9 @@
 title: TV
 ---
 
-# SCP-545-ALDO
+# Overview
 
 !!! tldr inline "Tool Info"
-    !!! danger ":material-certificate: Certification Required"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"
 
@@ -29,7 +28,7 @@ The TV's ID is #1, or `0x30 0x31` on the wire.
 
 # Safety and Certification
 
-None.
+None.  You may find it useful to have your eyeballs calibrated by a certified eyeball calibration technician before using this tool.  The technician will not be able to calibrate your brain to interpret the pixels correctly, but may recommend third-party equipment to assist with perceiving the pixels correctly.
 
 ## Hazards
 
@@ -37,20 +36,13 @@ None.
 
     Warning, the pixels may display text which may or may not contain true statements.
 
-## Prohibited Operations
-
-## Pre-flight checklist
-
 ## Operation checklist
 
-## Post-flight checklist
+* Plug in the power cord if it is not already plugged in.  To avoid a tripping hazard, the extension cord on the floor may be unplugged and coiled up.
 
-# Certified Members
+* Turn on the power switch on the rear of the TV.
 
-|Member Name | Certified By | Date           |
-|------------|--------------|----------------|
-|Everyone| Everyone        | 2020-01-01     |
-
+* Use the remote control to power on the TV.
 
 # Maintenance
 
