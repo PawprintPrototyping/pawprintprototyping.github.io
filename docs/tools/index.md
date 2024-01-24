@@ -1,10 +1,12 @@
 ---
-title: A non-exhaustive index of our tools
+title: Index
 ---
 
+A non-exhaustive index of our tools
+
 # Large tools
-* 80 [Laser cutter](/tools/laser)
-* [Bridgeport Mill](/tools/bridgeport_miill)
+* [80W Laser cutter](/tools/laser)
+* [Bridgeport Mill](/tools/bridgeport_mill)
 
 # Woodworking
 * Various battery power tools
