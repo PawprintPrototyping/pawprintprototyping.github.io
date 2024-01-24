@@ -139,6 +139,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Geo         | Mojake       | 2023-06-13     |
 |Kay         | Geo          | 2023-07-29     |
 |Kilte       | Geo          | 2023-09-27     |
+|Z           | Rechner      | 2024-01-23     |
 
 
 # Maintenance
