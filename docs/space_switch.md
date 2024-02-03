@@ -32,7 +32,7 @@ Hope to see you soon!
 # For Members
 ## So you've switched the space switch to "OPEN"
 
-The space switch lets people know that our door is open, via a Telegram notification, a card on our website, and via [our SpaceDirectory API](https://members.pawprintprototyping.org/api/spacedirectory/).
+The space switch lets people know that our door is open, via a Telegram notification, a card on our website, and [the SpaceDirectory API](https://members.pawprintprototyping.org/api/spacedirectory/).
 By setting the space to "Open", you've carved out a few extra responsibilities for yourself (don't worry, it's easy):
 
 * You are hereby willing and responsible for receiving random guests without prior notice, and ensuring:
