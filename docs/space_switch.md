@@ -1,0 +1,45 @@
+---
+title: Space Switch
+---
+
+![Space Status](https://spaceapistatusimage.hosted.quelltext.eu/status?url=https%3A%2F%2Fmembers.pawprintprototyping.org%2Fapi%2Fspacedirectory%2F)
+
+# For Guests
+
+Welcome to Pawprint Prototyping!  We are a hackerspace whose mission is geared towards fostering the local hacker community and 
+creative endeavors at large. A lot of us are also animals on the internet.
+
+If you're visiting this page from the space switch open notification, you're welcome to
+stop by for a tour.  A key member will be happy to show you around, show off some broad strokes of our [various equipment](/tools),
+and maybe even show off some of the projects they and other members have been working on.
+
+When you arrive, you'll first need to fill out a [release of liability form](https://docs.google.com/document/d/e/2PACX-1vQ3HDlIvuOpgoIlVgrtS9o0Wd8RvYXV3MT0XZ0XTQ3-w0Rt_fpUfAGaB0LUi5SKyPCDNow-krfiRk1G/pub) - there 
+are blank copies and clipboards near the door for your convenience.  Since this is an active workshop, we recommend wearing
+close-toed shoes, and to be mindful of the tools and equipment that may be about.
+
+If you are interested in using equipment during your stay, please ask a member to help you.  Most of our larger equipment requires
+certification to be enjoyed safely, but hand tools are generally available for quick fixes.
+
+Pawprint Prototyping is a registered California 501(c)3 non-profit, and relies totally on donations from members and viewers like 
+you - we encourage anyone that finds the space enjoyable to leave a small donation via our [PayPal donation portal](https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8&source=qr).
+
+Members enjoy 24/7 access to the space for $100/month.  If you are interested in becoming a member, please get in touch with the
+board about a membership application via [our Telegram group chat](https://t.me/+06eI4qQVzXJjYzAx), or via our [contact form](https://pawprintprototyping.org/contact/).
+
+Hope to see you soon!
+
+
+# For Members
+## So you've switched the space switch to "OPEN"
+
+The space switch lets people know that our door is open, via a Telegram notification, a card on our website, and via [our SpaceDirectory API](https://members.pawprintprototyping.org/api/spacedirectory/).
+By setting the space to "Open", you've carved out a few extra responsibilities for yourself (don't worry, it's easy):
+
+* You are hereby willing and responsible for receiving random guests without prior notice, and ensuring:
+  1. Guests complete a release of liability form (there's copies on the interior door).
+  2. Guests are provided with a quick tour of the facility,
+  3. You supervise any equipment use by guests.
+* And finally, making sure guests leave before you member lock up the space to depart.
+
+If you are looking to depart and there is another key member present, please ask them if they are willing to take on
+these space switch duties.  If not, change the space to closed and kindly usher guests out of the space before leaving.
