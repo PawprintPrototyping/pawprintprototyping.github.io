@@ -7,6 +7,7 @@ A non-exhaustive index of our tools
 # Large tools
 * [80W Laser cutter](/tools/laser)
 * [Bridgeport Mill](/tools/bridgeport_mill)
+* [Mini-lathe](/tools/lathe)
 
 # Woodworking
 * Various battery power tools
