@@ -20,7 +20,7 @@ Our Chinese laser, manufactured by Omtech, features:
 * 80W output
 * 600 &times; 900 mm (24" &times; 35") working surface
 * A Ruida controller
-* Rotary axis attachment
+* ~~Rotary axis attachment~~ needs replacing
 
 # Safety and Certification
 
@@ -121,6 +121,20 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
     1. Power down the machine
     1. Wipe surfaces
     1. Clean debris from inside as needed with shop vac.
+
+
+## Useful references
+
+### Box generators:
+* [Boxes.py](https://www.festi.info/boxes.py/index.html) - an open-source, online, parametric box generator.  Also available as an inkscape plugin or as a python library.  Incredibly featured, and an incredible repository for a multitude of useful parts, including pattern tests for calibrating etching your materials.  Great resource for making an enclosure for your electronics project.
+* [Makercase](https://www.makercase.com/#/) - a simpler version of boxes.py for basic enclosures.  Not as many parameters as Boxes.py, but sometimes simplicity is the best.
+
+### Guides:
+* [Laser engraving guide](https://omtechlaser.com/blogs/news/how-to-laser-engrave-for-dummies-start-to-finish-guide)
+
+### Local material sources:
+* Wood and project boards: [Home Depot](https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7/Ntk-RelaxedMatch/Ntt-glowforge?Ntx=mode+matchpartialmax&NCNI-5)
+* Acrylic: [TAP Plastics](https://www.tapplastics.com/)
 
 # Certified Members
 
