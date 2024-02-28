@@ -55,6 +55,7 @@ While this is a metal lathe, some metals are vastly more difficult to work with 
     1. Disengage the half nut.
 
 ## Operation checklist
+!!! info "During use"
     1. Be constantly mindful of the position of the tool and carriage. Constantly check to make sure you aren't in danger of crashing the lathe.
     1. Start with a very light cut and a slow feed.
 
@@ -71,6 +72,7 @@ While this is a metal lathe, some metals are vastly more difficult to work with 
 
 
 # Maintenance
+!!! info ""
     * **Unplug the lathe before performing any maintenance.**
     * If removing the chuck, put a wooden board on the ways underneath it in case you drop the chuck.
 
