@@ -31,7 +31,7 @@ Our Chinese laser, manufactured by Omtech, features:
 
 !!! danger "Hazards"
     * Laser-cutting presents a risk of fire and burns.
-    * Laser-cutting certain materials can release gases that are harmful to humans and may damge the machine.
+    * Laser-cutting certain materials can release gases that are harmful to humans and may damage the machine.
     * The laser emits invisible infrared radiation that can damage your eyes.
     * The laser is powered by high-voltage, and presents an electrocution risk if the cabinet is open.
 
@@ -139,6 +139,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Geo         | Mojake       | 2023-06-13     |
 |Kay         | Geo          | 2023-07-29     |
 |Kilte       | Geo          | 2023-09-27     |
+|Bocuma      | Kilte        | 2023-11-28     |
 |Z           | Rechner      | 2024-01-23     |
 
 
