@@ -53,12 +53,16 @@ While this is a metal lathe, some metals are vastly more difficult to work with 
     1. Ensure the tool post is fastened.
     1. Ensure the machine is well oiled.
     1. Disengage the half nut.
+
 ## Operation checklist
     1. Be constantly mindful of the position of the tool and carriage. Constantly check to make sure you aren't in danger of crashing the lathe.
     1. Start with a very light cut and a slow feed.
+
 ## Post-flight checklist
+!!! info "End of operation and clean-up"
     1. Clean up the work area. Metal chips are sharp and should only be handled with gloves.
     1. Cover up the lathe when done.
+
 # Certified Members
 
 |Member Name | Certified By | Date           |
