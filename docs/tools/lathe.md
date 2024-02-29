@@ -41,7 +41,7 @@ Our lathe is a Central Machinery 7x10 mini lathe (93212). This machine is capabl
     * If turning wood, the ways must also be covered. Sawdust mixes with oil and turns into a sludge that gums up the machine.
 
 ### Disclaimer
-Machining has a steep learning curve this page is not a substitute for proper learning materials.
+Machining has a steep learning curve. This page is not a substitute for proper learning materials.
 
 ### Materials
 While this is a metal lathe, some metals are vastly more difficult to work with than others. We strongly recommend starting with brass when first learning, as it cuts easily and forms good chips. Aluminum cuts similarly easily, but leaves a rats nest of ribbons behind. This lathe can cut mild steel but requires a very light depth of cut, slow feed rate and lots of cutting oil. A free machining steel such as 12L14 will make life a bit easier.
