@@ -90,6 +90,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |Leather| 400 mm/s | 16% |
 |Faux Leather| 425 mm/s | 15% |
 |Tile/Stones|  145 mm/s | 18% |
+|Pizza (Papa John's)| 500 mm/s | 30% |
 
 #### Cutting
 
