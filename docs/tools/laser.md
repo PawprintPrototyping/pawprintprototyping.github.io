@@ -156,6 +156,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Kilte       | Geo          | 2023-09-27     |
 |Bocuma      | Kilte        | 2023-11-28     |
 |Z           | Rechner      | 2024-01-23     |
+|Oreo        | Rechner      | 2024-03-17     |
 
 
 # Maintenance
