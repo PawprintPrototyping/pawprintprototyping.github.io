@@ -172,3 +172,4 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2022-05-26 | Cleaned optics, confirmed laser beam alignment| Kataze
 |2023-05-30 | Cleaned optics, greased rails, and confirmed laser alignment. | Rechner
 |2024-01-22 | Drained and purged cooler water.  We probably need to add biocide | Rechner
+|2024-03-26 | Cleaned main optics | Rechner
