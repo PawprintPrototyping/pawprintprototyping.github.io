@@ -159,6 +159,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Oreo        | Rechner      | 2024-03-17     |
 |Stanley     | Rechner      | 2024-03-26     |
 |Earthshine  | Rechner      | 2024-03-26     |
+|Oddai       | Rechner      | 2024-04-23     |
 
 
 
