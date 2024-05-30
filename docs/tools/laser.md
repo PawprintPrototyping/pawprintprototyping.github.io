@@ -80,6 +80,9 @@ Our Chinese laser, manufactured by Omtech, features:
 
 Select an appropriate power and speed for the material you are cutting.  Here are some good starting guidelines for various materials below.  Some materials are highly variable, especially wood.  Do some test cuts and engraves to dial in the right settings.  More feeds and speeds can be found [here](https://cdn.shopifycdn.net/s/files/1/0280/0012/4993/files/Average_Parameter_Settings.pdf.pdf?v=1632564433)
 
+!!! warning "Max power level"
+    The manufacturer does not recommend surpassing 70% power for any project.  You should get desired cuts or engraving quality with no more than 50-60% max power.  Running above 70% max power constantly will shorten the lifespan of the laser tube.
+
 #### Engraving
 
 |Material  |  Speed  |  Power  |
@@ -96,7 +99,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 
 | Material    | Thickness | Speed  | Power |
 |-------------|-----------|--------|-------|
-| Cardboard   | 1/8"      | 50 mm/s| 100%  |
+| Cardboard   | 1/8"      | 50 mm/s| 60%  |
 | Acrylic     | 1/16"     | 25 mm/s| 18%   |
 | Acrylic     | 1/8"      | 12 mm/s| 25%   |
 | Acrylic     | 1/4"      | 6 mm/s | 35%   |
@@ -160,6 +163,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Stanley     | Rechner      | 2024-03-26     |
 |Earthshine  | Rechner      | 2024-03-26     |
 |Oddai       | Rechner      | 2024-04-23     |
+|Guru        | Rechner      | 2024-05-28     |
 
 
 
