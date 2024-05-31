@@ -99,7 +99,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 
 | Material    | Thickness | Speed  | Power |
 |-------------|-----------|--------|-------|
-| Cardboard   | 1/8"      | 50 mm/s| 60%  |
+| Cardboard   | 1/8"      | 100 mm/s|40%  |
 | Acrylic     | 1/16"     | 25 mm/s| 18%   |
 | Acrylic     | 1/8"      | 12 mm/s| 25%   |
 | Acrylic     | 1/4"      | 6 mm/s | 35%   |
