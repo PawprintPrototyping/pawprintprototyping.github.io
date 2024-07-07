@@ -18,11 +18,9 @@ either through a feed or a scanner bay.
 
 We currently use EPSON 502 BK/C/M/Y inks.
 
-**Quick Start/Installation Guide:**
-https://files.support.epson.com/docid/cpd6/cpd60031.pdf \[[Internet Archive Mirror](https://web.archive.org/web/20231127084258/https://files.support.epson.com/docid/cpd6/cpd60031.pdf)\]
+* [Quick Start/Installation Guide](https://files.support.epson.com/docid/cpd6/cpd60031.pdf) \[[Internet Archive Mirror](https://web.archive.org/web/20231127084258/https://files.support.epson.com/docid/cpd6/cpd60031.pdf)\]
 
-**User Guide:**
-https://files.support.epson.com/docid/cpd6/cpd60203.pdf \[[Internet Archive Mirror](https://web.archive.org/web/20240220130545/https://files.support.epson.com/docid/cpd6/cpd60203.pdf)\]
+* [User Guide](https://files.support.epson.com/docid/cpd6/cpd60203.pdf) \[[Internet Archive Mirror](https://web.archive.org/web/20240220130545/https://files.support.epson.com/docid/cpd6/cpd60203.pdf)\]
 
 ## Wireless Printing
 
@@ -62,15 +60,15 @@ The ink can take a bit to dry, and sometimes may never dry without additional co
 1. Align the feeder page edge guides correctly for the page size; don't press them too tightly.
 1. Check that the printer is set to the right page type. Glossy tends to make the printer move
    slower, so keep that in mind. Here's a table of known paper type combinations that we've tested.
+1. You may now print from your standard application interface.
    
    |Paper Type|Setting|Additional Notes|
    |----------|-------|----------------|
-   |Standard printer paper (US Letter)| `Standard paper`|Reds may be dull|
-   |JOYEZA Premium Glossy Vinyl Sticker Paper| `Premium Glossy`|Colors are good; ink rubs off really easily without additional finnishing|
-   |QYH Matte Printable vinyl Sticker Paper|`Premium Matte`|Reds may be dull|
+   |Standard printer paper (US Letter)|`Standard paper`|Reds may be dull|
+   |JOYEZA Premium Glossy Vinyl Sticker Paper|`Premium Glossy`|Colors are good; ink rubs off really easily without additional finishing|
+   |QYH Matte Printable Vinyl Sticker Paper|`Premium Matte`|Reds may be dull|
    |Printable Holographic Vinyl Sticker Paper|`Glossy`|Colors are great; ink rubs off|
 
-1. You may now print from your standard application interface.
 
 # Maintenance
 
