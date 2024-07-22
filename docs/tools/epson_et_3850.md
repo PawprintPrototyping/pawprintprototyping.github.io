@@ -36,9 +36,16 @@ browser may give a security warning.
 
 ## Scanning
 
-Scanning is most easily done by scanning to a memory device (USB drive). This can be
-selected from the home screen option. You can also scan using a direct USB connection
-with a computer.
+Scanning is most easily done by downloading the EPSON scanning driver, which can
+be downloaded here:
+
+* [General Download link (Windows, MacOS, etc.)](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3850/s/SPT_C11CJ61201)
+* [Linux (EPSON Scan 2)](http://download.ebz.epson.net/dsc/du/02/DriverDownloadInfo.do?LG2=EN&CN2=&DSCMI=160076&DSCCHK=3ad820ccdea5a7409e7df1603e0a16414b60a0f5)
+* [Android (Google Play Store)](https://play.google.com/store/apps/details?id=com.epson.epsonsmart&hl=en_US&pli=1)
+* [iOS](https://apps.apple.com/us/app/epson-smart-panel/id1477796092)
+
+Scanning is supported over the wifi. You may need to plug in the printer IP address
+into the driver to get a working connection, as detecting the printer automatically may fail.
 
 # Safety and Certification
 
