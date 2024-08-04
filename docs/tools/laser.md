@@ -118,6 +118,10 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 
 Our laser has an automatic focus setting. Place the material under the Z-axis sensor, press `Fn`, and use the up/down arrow to highlight `Auto Focus` setting, and press `Enter` to set the Z-height.  This will place the focus exactly at the top of the material, and set the machine Z-height to 0.  Use this setting for engraving.  For cutting, especially thick material, you will need to adjust the Z-height to the center of the material.  However since the auto-focus sets the height of the bed to the surface, and won't let you back-drive the bed to Z < 0, you will need to place another piece of material of the same thickness before using the auto-focus, and then back-drive the bed down (3/2) × (material thickness).
 
+!!! warning ""
+    Always ensure there is material under the autofocus probe.  The probe tip size is about the size of the honeycomb cells and can cause the laser head to crash into the bed and damage the motion system. If the probe misses the bed or crashes, hit the E-stop and manually back drive the bed leveling chain before restarting the machine.  Notify a board member for help with checking mirror alignment before resuming operation.
+
+
 
 ## Post-flight checklist
 
@@ -170,7 +174,9 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 
 # Maintenance
 
-* [Routine Cleaning](https://www.youtube.com/watch?v=aJEYHZ4Uurc)
+* [Routine Cleaning video](https://www.youtube.com/watch?v=aJEYHZ4Uurc)
+  * [How to clean mirrors and focal lens - blog post](https://omtechlaser.com/blogs/news/how-to-clean-laser-mirrors-and-focal-lenses)
+* [Mirror Alignment](https://omtechlaser.com/blogs/news/laser-engraver-mirror-alignment-how-to-align-a-co-laser-beam)
 
 
 # Tool History
@@ -182,3 +188,4 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2023-05-30 | Cleaned optics, greased rails, and confirmed laser alignment. | Rechner
 |2024-01-22 | Drained and purged cooler water.  We probably need to add biocide | Rechner
 |2024-03-26 | Cleaned main optics | Rechner
+|2024-08-03 | Clean optics, greased rails, noted significant alignment problems and apparent damage from a Z-axis head crash. | Rechner
