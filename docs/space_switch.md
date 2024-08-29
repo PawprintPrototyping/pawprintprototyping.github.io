@@ -13,9 +13,9 @@ If you're visiting this page from the space switch open notification, you're wel
 stop by for a tour.  A key member will be happy to show you around, show off some broad strokes of our [various equipment](/tools),
 and maybe even show off some of the projects they and other members have been working on.
 
-When you arrive, you'll first need to fill out a [release of liability form](https://docs.google.com/document/d/e/2PACX-1vQ3HDlIvuOpgoIlVgrtS9o0Wd8RvYXV3MT0XZ0XTQ3-w0Rt_fpUfAGaB0LUi5SKyPCDNow-krfiRk1G/pub) - there 
-are blank copies and clipboards near the door for your convenience.  Since this is an active workshop, we recommend wearing
-close-toed shoes, and to be mindful of the tools and equipment that may be about.
+When you arrive, you'll first need to fill out a [release of liability](https://docuseal.pawprint.space/d/giEg27uTJJUqcY) - there 
+is a chromebook near the entrance you can fill that out on, or backup blank copies on clipboards near the door for your convenience.  
+Since this is an active workshop, we recommend wearing close-toed shoes, and to be mindful of the tools and equipment that may be about.
 
 If you are interested in using equipment during your stay, please ask a member to help you.  Most of our larger equipment requires
 certification to be enjoyed safely, but hand tools are generally available for quick fixes.
