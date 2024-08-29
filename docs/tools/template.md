@@ -4,7 +4,7 @@ title: Template for new tools
 
 # The woodworking tools of the blue cabinet
 
-!!! tldr inline "Tool Info"
+!!! abstract inline "Tool Info"
     !!! danger ":material-certificate: Certification Required"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"
@@ -20,7 +20,7 @@ of the tool, as it pertains to use in our hackerspace.
 
 # Description
 
-Describe some basic functionality of the tool in question.  Looking for a quick abstract here, and maybe some call-outs
+Describe some basic functionality of the tool in question.  Looking for a quick TL;DR here, and maybe some call-outs
 about what might make this tool special over similar ones somone may have encountered in the past.
 
 # Safety and Certification

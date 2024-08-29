@@ -4,7 +4,7 @@ title: TV
 
 # Overview
 
-!!! tldr inline "Tool Info"
+!!! abstract inline "Tool Info"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"
 

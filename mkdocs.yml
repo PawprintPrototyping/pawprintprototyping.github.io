@@ -22,7 +22,7 @@ theme:
         name: Switch to light mode
   icon:
     admonition:
-      abstract: material/material-hand-back-right-outline
+      abstract: material/hand-back-right
 
 markdown_extensions:
   - admonition
@@ -32,5 +32,5 @@ markdown_extensions:
   - md_in_html
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

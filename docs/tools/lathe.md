@@ -4,7 +4,7 @@ title: Mini Lathe (7x10)
 
 # Central Machinery 7x10 Mini-lathe
 
-!!! tldr inline "Tool Info"
+!!! abstract inline "Tool Info"
     !!! danger ":material-certificate: Certification Required"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"

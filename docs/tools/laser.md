@@ -4,7 +4,7 @@ title: Laser Cutter
 
 # 80W CO₂ Blue Laser Cutter
 
-!!! tldr inline "Tool Info"
+!!! abstract inline "Tool Info"
     !!! danger ":material-certificate: Certification Required"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"
@@ -70,7 +70,7 @@ Our Chinese laser, manufactured by Omtech, features:
 
 ## Operation checklist
 
-!!! tldr "Operational Safety"
+!!! abstract "Operational Safety"
     1. Ensure material to be cut is safe to use. See Consumable Material Reference for details.
     1. Never leave a laser cutter unattended when running a job
     1. Take care to select appropriate power/speeds settings to avoid combustion. Always start jobs with lowest power

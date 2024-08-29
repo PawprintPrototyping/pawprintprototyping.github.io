@@ -4,7 +4,7 @@ title: EPSON Color Printer + Scanner
 
 # EPSON EcoTank ET-3850 Color Printer and Scanner
 
-!!! tldr inline "Tool Info"
+!!! abstract inline "Tool Info"
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: Pawprint Prototyping"
 
