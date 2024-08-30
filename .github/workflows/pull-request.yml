@@ -34,4 +34,4 @@ jobs:
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./site/
-          custom-url: https://wiki.pawprint.space
+          custom-url: wiki.pawprint.space
