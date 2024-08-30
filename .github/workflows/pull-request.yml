@@ -27,7 +27,7 @@ jobs:
       - name: Install and Build
         if: github.event.action != 'closed' # You might want to skip the build if the PR has been closed
         run: |
-          python3 -m pip install requirements.txt
+          python3 -m pip install -r requirements.txt
           mkdocs build
 
       - name: Deploy preview
