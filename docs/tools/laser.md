@@ -49,12 +49,26 @@ Our Chinese laser, manufactured by Omtech, features:
 |--------|------|
 |polycarbonate|Melts instead of burns, releases poison gas|
 |vinyl|Melts instead of burns, releases poison gas|
-|PVC|Melts instead of burns, releases chlorine gas|
-|Neoprene|Sublimated vapors damage the optics|
+|polyvinyl chloride (PVC)|Melts instead of burns, releases chlorine gas|
+|polyvinyl butyral (PVB)|Melts instead of burns|
+|neoprene|Sublimated vapors damage the optics|
 |Moleskin notebooks|Contains chlorine, releases poison gas|
 |ABS|Burning ABS releases hydrogen cyanide gas|
 |self-laminated or glued|Anything you laminated yourself or glued together is a fire hazard|
 |low-grade plywood|Excessive bowing can cause the gantry to catch on the wood being cut|
+|halogenated material|Releases halogens, which can damage humans and optics|
+|epoxy|Contains halogens (fluorine, chlorine, bromine, iodine)|
+|phenolic resins|Contains halogens|
+|chromium|Found in letaher/vegan leather: Sublimates and damages optics|
+|PTFE (Teflon)|Fluorine gas is extremely corrosive|
+|beryllium oxide|You don't want *anything* to do with [beryllium](https://www.osha.gov/beryllium/health-effects)|
+
+Take care when engraving these materials:
+* Flame-retardant materials, which may contain halogens like bromide.
+* Manganese
+* Nickel
+* Cobalt
+* Copper
 
 ## Pre-flight checklist
 
