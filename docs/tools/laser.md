@@ -64,11 +64,11 @@ Our Chinese laser, manufactured by Omtech, features:
 |beryllium oxide|You don't want *anything* to do with [beryllium](https://www.osha.gov/beryllium/health-effects)|
 
 Take care when engraving these materials:
-* Flame-retardant materials, which may contain halogens like bromide.
-* Manganese
-* Nickel
-* Cobalt
-* Copper
+- Flame-retardant materials, which may contain halogens like bromide.
+- Manganese
+- Nickel
+- Cobalt
+- Copper
 
 ## Pre-flight checklist
 
@@ -162,7 +162,7 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 
 |Member Name | Certified By | Date           |
 |------------|--------------|----------------|
-|Rechner Fox | -            | 2020-04-01     |
+|Rechner Fox | (Buying it)  | 2020-04-01     |
 |Kataze Skunk| Rechner Fox  | 2021-12-15     |
 |Bokeh       | Kataze Skunk | 2022-04-07     |
 |Mojake      | Kataze Skunk | 2022-04-07     |
@@ -183,6 +183,11 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Oddai       | Rechner      | 2024-04-23     |
 |Guru        | Rechner      | 2024-05-28     |
 |Crystal     | Rechner      | 2024-06-25     |
+|Dingo       | Rechner      | 2024-09-03     |
+|Pawbs       | Rechner      | 2024-09-03     |
+|Nano        | Rechner      | 2024-09-03     |
+|Dacio       | Rechner      | 2024-09-03     |
+|Hufman      | Rechner      | 2024-09-03     |
 
 
 
