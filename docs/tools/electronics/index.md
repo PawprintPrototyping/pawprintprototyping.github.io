@@ -6,7 +6,7 @@ there.  Please be sure to clear that away and put equipment back in its home aft
 
 ## At the bench
 
-* [Soldering and desoldering tools](/tools/soldering)
+* [Soldering and desoldering tools](/tools/electronics/soldering)
 * Power supplies
   * [Rigol DP 832A](/manuals/electronics/dp800a_userguide_en.pdf) programmable power supply
   * Various generic 0-30V analog power supplies
