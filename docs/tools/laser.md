@@ -208,3 +208,4 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2024-01-22 | Drained and purged cooler water.  We probably need to add biocide | Rechner
 |2024-03-26 | Cleaned main optics | Rechner
 |2024-08-03 | Clean optics, greased rails, noted significant alignment problems and apparent damage from a Z-axis head crash. | Rechner
+|2024-09-12 | Re-aligned 2nd mirror in an attempt to compensate for damage from Z crash. | Geo
