@@ -21,8 +21,6 @@ Prusa Mini by Prusa Research by Jospeh Prusa.
 
 Has both Smooth and texture PEI plates.
 
-Material Compatability 
-
 |Material|Build Plate|Diffculty|Notes
 |------|------|------|------|
 |PLA|Smooth/Texture|Easy|
@@ -90,5 +88,5 @@ Spare nozzle assembly located in spare parts box.
 
 |Date | Event |
 |-----|-------|
-|Unknown|Coolated to PP|
+|Unknown|Colated to PP|
 |Unkown|Second nozzle assembly installed|
