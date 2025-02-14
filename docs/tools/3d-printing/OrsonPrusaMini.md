@@ -8,6 +8,8 @@ title: Orson Pig (Prusa Mini)
     !!! warning ":material-hand-back-right-outline: __Do Not Hack__"
     !!! info ":material-paw: Owner: MoJake"
 
+!![Prusa_Mini](https://github.com/user-attachments/assets/185912f5-827a-493c-80d1-e285137c086d){ align=right style="width: 50%" }
+
 
 _Just a little guy_
 
