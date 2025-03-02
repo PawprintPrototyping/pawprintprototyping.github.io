@@ -188,6 +188,8 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |Nano        | Rechner      | 2024-09-03     |
 |Dacio       | Rechner      | 2024-09-03     |
 |Hufman      | Rechner      | 2024-09-03     |
+|Kathiss     | Rechner      | 2025-02-25     |
+|Nohi        | Rechner      | 2025-02-25     |
 
 
 
@@ -209,3 +211,4 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2024-03-26 | Cleaned main optics | Rechner
 |2024-08-03 | Clean optics, greased rails, noted significant alignment problems and apparent damage from a Z-axis head crash. | Rechner
 |2024-09-12 | Re-aligned 2nd mirror in an attempt to compensate for damage from Z crash. | Geo
+|2025-02-04 | Replaced Y-rails and readjusted rail alignment to mostly correct Z-axis head crash damage. | Geo
