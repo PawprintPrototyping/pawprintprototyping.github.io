@@ -1,5 +1,5 @@
 ---
-title: Booker chick (Bambu A1 + AMS)
+title: Sheldon chick (Bambu A1 + AMS)
 ---
 
 !!! abstract inline "Tool Info"
@@ -13,7 +13,7 @@ _Not completely evil, yet_
 
 Bambu A1 with AMS by Bambulabs.
 
-0.4mm nozzle - Hardened Steel.
+0.2mm nozzle - Hardened Steel.
 
 AMS mounted on top of machine.
 
