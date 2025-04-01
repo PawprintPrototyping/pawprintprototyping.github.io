@@ -20,13 +20,13 @@ Our Chinese laser, manufactured by Omtech, features:
 * 80W output
 * 600 &times; 900 mm (24" &times; 35") working surface
 * A Ruida controller
-* ~~Rotary axis attachment~~ needs replacing
+* ~~Rotary axis attachment~~ needs calibrating
 
 # Safety and Certification
 
 !!! info "Protective Equipment"
     - :material-safety-goggles: **Safety glasses**:  Polycarbonate, acrylic, or any prescription glasses
-    will offer protection from IR light.
+    will offer protection from IR light.  Special laser protection eyewear is in the laser computer drawer, mostly used for maintenance.
     - **Water spray bottle**: to put out small fires.
 
 !!! danger "Hazards"
@@ -212,3 +212,4 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2024-08-03 | Clean optics, greased rails, noted significant alignment problems and apparent damage from a Z-axis head crash. | Rechner
 |2024-09-12 | Re-aligned 2nd mirror in an attempt to compensate for damage from Z crash. | Geo
 |2025-02-04 | Replaced Y-rails and readjusted rail alignment to mostly correct Z-axis head crash damage. | Geo
+|2025-03-31 | Replaced tube!  Old tube had a crack in the envelope.  Realigned.  Flushed chiller coolant and replaced silicone tubes. Alignment on x-axis is still rather skewed across full range of motion. | Rechner
