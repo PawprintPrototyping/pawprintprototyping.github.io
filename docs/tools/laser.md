@@ -19,7 +19,7 @@ Our Chinese laser, manufactured by Omtech, features:
 
 * 80W output
 * 600 &times; 900 mm (24" &times; 35") working surface
-* A Ruida controller
+* A Ruida controller, and ZYE laser MYJG100W-1 laser power supply
 * ~~Rotary axis attachment~~ needs calibrating
 
 # Safety and Certification
