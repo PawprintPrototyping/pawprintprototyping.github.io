@@ -132,6 +132,8 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 
 Our laser has an automatic focus setting. Place the material under the Z-axis sensor, press `Fn`, and use the up/down arrow to highlight `Auto Focus` setting, and press `Enter` to set the Z-height.  This will place the focus exactly at the top of the material, and set the machine Z-height to 0.  Use this setting for engraving.  For cutting, especially thick material, you will need to adjust the Z-height to the center of the material.  However since the auto-focus sets the height of the bed to the surface, and won't let you back-drive the bed to Z < 0, you will need to place another piece of material of the same thickness before using the auto-focus, and then back-drive the bed down (3/2) × (material thickness).
 
+You can also manually level by jogging the Z up and down, and using the short end of the small piece of acrylic on the laser key as a gauge.
+
 !!! warning ""
     Always ensure there is material under the autofocus probe.  The probe tip size is about the size of the honeycomb cells and can cause the laser head to crash into the bed and damage the motion system. If the probe misses the bed or crashes, hit the E-stop and manually back drive the bed leveling chain before restarting the machine.  Notify a board member for help with checking mirror alignment before resuming operation.
 
@@ -212,4 +214,5 @@ Our laser has an automatic focus setting. Place the material under the Z-axis se
 |2024-08-03 | Clean optics, greased rails, noted significant alignment problems and apparent damage from a Z-axis head crash. | Rechner
 |2024-09-12 | Re-aligned 2nd mirror in an attempt to compensate for damage from Z crash. | Geo
 |2025-02-04 | Replaced Y-rails and readjusted rail alignment to mostly correct Z-axis head crash damage. | Geo
-|2025-03-31 | Replaced tube!  Old tube had a crack in the envelope.  Realigned.  Flushed chiller coolant and replaced silicone tubes. Alignment on x-axis is still rather skewed across full range of motion. | Rechner
+|2025-03-31 | Replaced tube!  Old tube had a crack in the envelope.  Realigned.  Flushed chiller coolant and replaced silicone tubes. ~~Alignment on x-axis is still rather skewed across full range of motion.~~ | Rechner
+|2025-04-01 | Geo is better at aligning the laser than me.  Mirror adjustments were at the very end of their of their travel, causing path wobble | Rechner
