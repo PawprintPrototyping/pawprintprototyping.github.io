@@ -216,3 +216,4 @@ You can also manually level by jogging the Z up and down, and using the short en
 |2025-02-04 | Replaced Y-rails and readjusted rail alignment to mostly correct Z-axis head crash damage. | Geo
 |2025-03-31 | Replaced tube!  Old tube had a crack in the envelope.  Realigned.  Flushed chiller coolant and replaced silicone tubes. ~~Alignment on x-axis is still rather skewed across full range of motion.~~ | Rechner
 |2025-04-01 | Geo is better at aligning the laser than me.  Mirror adjustments were at the very end of their of their travel, causing path wobble | Rechner
+|2025-04-15 | Replaced failed E-stop and laser keyswitch.  Key is now captive in keyswich while switched on | Rechner
