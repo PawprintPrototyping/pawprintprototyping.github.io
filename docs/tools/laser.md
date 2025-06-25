@@ -99,33 +99,35 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 
 #### Engraving
 
-|Material  |  Speed  |  Power  |
-|----------|---------|---------|
-|Clear Acrylic| 325 mm/s | 18% |
-|Wood| 200 mm/s | 19%  |
-|Glass| 225 mm/s | 18% |
-|Leather| 400 mm/s | 16% |
-|Faux Leather| 425 mm/s | 15% |
-|Tile/Stones|  145 mm/s | 18% |
-|Pizza (Papa John's)| 500 mm/s | 30% |
+|Material  |  Speed  |  Power  | Notes |
+|----------|---------|---------|-------|
+|Clear Acrylic| 325 mm/s | 18% ||
+|Wood| 200 mm/s | 19%  ||
+|Glass| 225 mm/s | 18% ||
+|Leather| 400 mm/s | 16% ||
+|Faux Leather| 425 mm/s | 15% ||
+|Tile/Stones|  145 mm/s | 18% ||
+|JMP Mega Thick Laser Rubber| 100 mm/s | 50% | Set a ramp length in advanced options for best results |
+|Pizza (Papa John's)| 500 mm/s | 30% | Preserved example for future generations available on request |
 
 #### Cutting
 
-| Material    | Thickness | Speed  | Power |
-|-------------|-----------|--------|-------|
-| Cardboard   | 1/8"      | 100 mm/s|40%  |
-| Acrylic     | 1/16"     | 25 mm/s| 18%   |
-| Acrylic     | 1/8"      | 12 mm/s| 25%   |
-| Acrylic     | 1/4"      | 6 mm/s | 35%   |
-| Arcylic     | 1/2"      | 4 mm/s | 45%   |
-| Arylic      | 3/4"      | 3 mm/s | 55%   |
-| Arcylic     | 1"        | 1 mm/s | 60%   |
-| Birch wood  | 1/16"     | 25 mm/s| 20%   |
-| Birch wood  | 1/8"      | 12 mm/s| 25%   |
-| Birch wood  | 1/4"      | 7 mm/s | 30%   |
-| Birch wood  | 1/2"      | 5 mm/s | 35%   |
-| Birch wood  | 3/4"      | 4 mm/s | 43%   |
-| Birch wood  | 1"        | 3 mm/s | 47%   |
+| Material                    | Thickness | Speed    | Power | Multiple Passes? |
+|-----------------------------|-----------|----------|-------|------------------|
+| Cardboard                   | 1/8"      | 100 mm/s | 40%   |                  |
+| Acrylic                     | 1/16"     | 25 mm/s  | 18%   |                  |
+| Acrylic                     | 1/8"      | 12 mm/s  | 25%   |                  |
+| Acrylic                     | 1/4"      | 6 mm/s   | 35%   |                  |
+| Arcylic                     | 1/2"      | 4 mm/s   | 45%   |                  |
+| Arylic                      | 3/4"      | 3 mm/s   | 55%   |                  |
+| Arcylic                     | 1"        | 1 mm/s   | 60%   |                  |
+| Birch wood                  | 1/16"     | 25 mm/s  | 20%   |                  |
+| Birch wood                  | 1/8"      | 12 mm/s  | 25%   |                  |
+| Birch wood                  | 1/4"      | 7 mm/s   | 30%   |                  |
+| Birch wood                  | 1/2"      | 5 mm/s   | 35%   |                  |
+| Birch wood                  | 3/4"      | 4 mm/s   | 43%   |                  |
+| Birch wood                  | 1"        | 3 mm/s   | 47%   |                  |
+| JMP Mega Thick Laser Rubber | 5.0mm     | 30 mm/s  | 57.5% | 6 (maybe more)   |
 
 
 #### Set focal distance
