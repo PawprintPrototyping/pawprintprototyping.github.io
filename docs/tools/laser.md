@@ -164,37 +164,38 @@ You can also manually level by jogging the Z up and down, and using the short en
 
 # Certified Members
 
-|Member Name | Certified By | Date           |
-|------------|--------------|----------------|
-|Rechner Fox | (Buying it)  | 2020-04-01     |
-|Kataze Skunk| Rechner Fox  | 2021-12-15     |
-|Bokeh       | Kataze Skunk | 2022-04-07     |
-|Mojake      | Kataze Skunk | 2022-04-07     |
-|Amp         | Kataze Skunk | 2022-04-07     |
-|ket         | Kataze Skunk | 2022-04-07     |
-|Tigerpaw    | Kataze Skunk | 2022-04-22     |
-|BrokenWing  | Rechner Fox  | 2022-05-27     |
-|Robin       | Rechner Fox  | 2022-05-27     |
-|Dulse       | Rechner Fox  | 2023-05-16     |
-|Geo         | Mojake       | 2023-06-13     |
-|Kay         | Geo          | 2023-07-29     |
-|Kilte       | Geo          | 2023-09-27     |
-|Bocuma      | Kilte        | 2023-11-28     |
-|Z           | Rechner      | 2024-01-23     |
-|Oreo        | Rechner      | 2024-03-17     |
-|Stanley     | Rechner      | 2024-03-26     |
-|Earthshine  | Rechner      | 2024-03-26     |
-|Oddai       | Rechner      | 2024-04-23     |
-|Guru        | Rechner      | 2024-05-28     |
-|Crystal     | Rechner      | 2024-06-25     |
-|Dingo       | Rechner      | 2024-09-03     |
-|Pawbs       | Rechner      | 2024-09-03     |
-|Nano        | Rechner      | 2024-09-03     |
-|Dacio       | Rechner      | 2024-09-03     |
-|Hufman      | Rechner      | 2024-09-03     |
-|Kathiss     | Rechner      | 2025-02-25     |
-|Nohi        | Rechner      | 2025-02-25     |
-|Jason Jackrel| Rechner     | 2025-06-03     |
+|Member Name  | Certified By | Date           |
+|-------------|--------------|----------------|
+|Rechner Fox  | (Buying it)  | 2020-04-01     |
+|Kataze Skunk | Rechner Fox  | 2021-12-15     |
+|Bokeh        | Kataze Skunk | 2022-04-07     |
+|Mojake       | Kataze Skunk | 2022-04-07     |
+|Amp          | Kataze Skunk | 2022-04-07     |
+|ket          | Kataze Skunk | 2022-04-07     |
+|Tigerpaw     | Kataze Skunk | 2022-04-22     |
+|BrokenWing   | Rechner Fox  | 2022-05-27     |
+|Robin        | Rechner Fox  | 2022-05-27     |
+|Dulse        | Rechner Fox  | 2023-05-16     |
+|Geo          | Mojake       | 2023-06-13     |
+|Kay          | Geo          | 2023-07-29     |
+|Kilte        | Geo          | 2023-09-27     |
+|Bocuma       | Kilte        | 2023-11-28     |
+|Z            | Rechner      | 2024-01-23     |
+|Oreo         | Rechner      | 2024-03-17     |
+|Stanley      | Rechner      | 2024-03-26     |
+|Earthshine   | Rechner      | 2024-03-26     |
+|Oddai        | Rechner      | 2024-04-23     |
+|Guru         | Rechner      | 2024-05-28     |
+|Crystal      | Rechner      | 2024-06-25     |
+|Dingo        | Rechner      | 2024-09-03     |
+|Pawbs        | Rechner      | 2024-09-03     |
+|Nano         | Rechner      | 2024-09-03     |
+|Dacio        | Rechner      | 2024-09-03     |
+|Hufman       | Rechner      | 2024-09-03     |
+|Kathiss      | Rechner      | 2025-02-25     |
+|Nohi         | Rechner      | 2025-02-25     |
+|Jason Jackrel| Rechner      | 2025-06-03     |
+|Tanuki       | Geo          | 2025-06-21     |
 
 
 
