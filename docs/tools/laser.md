@@ -196,6 +196,7 @@ You can also manually level by jogging the Z up and down, and using the short en
 |Nohi         | Rechner      | 2025-02-25     |
 |Jason Jackrel| Rechner      | 2025-06-03     |
 |Tanuki       | Geo          | 2025-06-21     |
+|Quopas       | Kataze       | 2025-07-08     |
 
 
 
