@@ -197,6 +197,9 @@ You can also manually level by jogging the Z up and down, and using the short en
 |Jason Jackrel| Rechner      | 2025-06-03     |
 |Tanuki       | Geo          | 2025-06-21     |
 |Quopas       | Kataze       | 2025-07-08     |
+|Scout        | Rechner      | 2025-07-29     |
+|Bandit       | Rechner      | 2025-07-29     |
+|Autunite     | Rechner      | 2025-07-29     |
 
 
 
