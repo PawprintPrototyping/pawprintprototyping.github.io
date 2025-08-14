@@ -60,6 +60,12 @@ The ink can take a bit to dry, and sometimes may never dry without additional co
 
 ## Printing Operation Checklist
 
+!!! Note
+
+    Instead of printing from Silhouette Studio, use it to export a PDF and print from
+    your PDF reader of choice.  Silhouette Studio will destroy your colors if you print directly
+    from it.
+
 1. Make sure the printer is on. The power button should glow white.
 1. Make sure there's enough ink. The ink levels are visible on the bottom right of the printer.
 1. Check that the right type of paper is loaded into the tray. The print side is **FACE DOWN**.
