@@ -21,6 +21,7 @@ A non-exhaustive index of our tools
 * Brother desktop embroidery machine/sewing machine
   * License for Hatch digitizer on office PC
 * Tee-shirt heat press
+* [Thermal Laminator](/tools/laminator.md)
 
 # Electronics workbench
 * Programmable power supplies
