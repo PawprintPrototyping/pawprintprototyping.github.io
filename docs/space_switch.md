@@ -22,7 +22,7 @@ certification and orientation to be enjoyed safely, but hand tools are generally
 Pawprint Prototyping is a registered California 501(c)3 non-profit, and relies totally on donations from members and viewers like 
 you - we encourage anyone that finds the space enjoyable to leave a small donation via our [PayPal donation portal](https://www.paypal.com/donate/?hosted_button_id=KHRVZ4QL8BGF8&source=qr).
 
-Members enjoy 24/7 access to the space for $100/month.  If you are interested in becoming a member, please get in touch with the
+Members enjoy access to the space for $100/month.  If you are interested in becoming a member, please get in touch with the
 board about a membership application via [our Telegram group chat](https://t.me/+06eI4qQVzXJjYzAx), or via our [contact form](https://pawprintprototyping.org/contact/).
 
 Hope to see you soon!
