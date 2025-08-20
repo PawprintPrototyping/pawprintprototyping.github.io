@@ -109,6 +109,8 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |Tile/Stones|  145 mm/s | 18% ||
 |JMP Mega Thick Laser Rubber| 100 mm/s | 50% | Set a ramp length in advanced options for best results |
 |Pizza (Papa John's)| 500 mm/s | 30% | Preserved example for future generations available on request |
+| Thrifty Board | 500 | 30 | | 
+| Rowmark LaserMax Acrylic | 350 | 23% | Clean with Googone |
 
 #### Cutting
 
@@ -128,6 +130,8 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 | Birch wood                  | 3/4"      | 4 mm/s   | 43%   |                  |
 | Birch wood                  | 1"        | 3 mm/s   | 47%   |                  |
 | JMP Mega Thick Laser Rubber | 5.0mm     | 30 mm/s  | 57.5% | 6 (maybe more)   |
+| Thirfty Board               | 1/8"      | 16 mm/s  | 66%   |                  |
+| Rowmark LaserMax Acrylic    | 1/16"     | 45 mm/s  | 35%   | Clean with Googone| 
 
 
 #### Set focal distance
