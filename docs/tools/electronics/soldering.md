@@ -4,7 +4,7 @@
 
 ![Metcal RFG-30 soldering iron](/img/electronics/metcal-rfg-30.jpg)
 
-Metcal produces professional soldering stations which consist of an high-frequency power source and a fixed-temperature cartridge which [harnesses skin-effect and currie point to regulate temperature](https://www.metcal.com/soldering-station/how-smartheat-technology-works-a-tutorial/).  A big advantage of this is quick thermal recovery and very stable temperature regulation, since temperature regulation is a part of the physical properties of the heater cartridge itself responding directly to thermal loads.
+Metcal produces professional soldering stations which consist of an high-frequency power source and a fixed-temperature cartridge which [harnesses skin-effect and currie point to regulate temperature](https://www.metcal.com/soldering-station/how-smartheat-technology-works-a-tutorial/).  A big advantage of this is quick thermal recovery and very stable temperature regulation, since temperature regulation is a part of the physical properties of the heater cartridge itself responding directly to thermal loads.  [Video Explainer](https://www.youtube.com/watch?v=RfnFvzeU3_U).
 
 The temperature is regulated by the properties of the cartridge tip itself, there are no controls except the power switch.
 
