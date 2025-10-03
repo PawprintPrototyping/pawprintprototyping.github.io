@@ -39,18 +39,19 @@ We usually keep a quantity of PLA and PET filament around in various colors to f
 
 Please consult the full [filament material guide](https://help.prusa3d.com/filament-material-guide) for details.
 
+| Notes          | Materials           |
 |----------------|---------------------|
 |Ideal           |PLA, PETG, TPU, PVA  |
 |With enclosure  |ABS, PVB, ASA, PC    |
-|----------------|---------------------|
 
 
 ### Bambu compatible materials
 
+| Notes           | Materials          |
 |-----------------|--------------------|
 |Ideal            |PLA, PETG, TPU, PVA |
 |Not Recommended  |ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer |
-|-----------------|--------------------|
+
 
 !!! warning "TPU does not work with the AMS, and must be loaded into the extruder directly."
 
