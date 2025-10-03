@@ -35,6 +35,25 @@ We usually keep a quantity of PLA and PET filament around in various colors to f
     * Some materials, like ABS and ASA, produce fumes and fine particulates when heated, and must be printed in an enclosure.
     * Failed prints can come detatched and damage printers.  Stop any failed prints and let someone know in the Telegram chat.
 
+### Prusa i3 MK4(s) compatible materials
+
+Please consult the full [filament material guide](https://help.prusa3d.com/filament-material-guide) for details.
+
+|----------------|---------------------|
+|Ideal           |PLA, PETG, TPU, PVA  |
+|With enclosure  |ABS, PVB, ASA, PC    |
+|----------------|---------------------|
+
+
+### Bambu compatible materials
+
+|-----------------|--------------------|
+|Ideal            |PLA, PETG, TPU, PVA |
+|Not Recommended  |ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer |
+|-----------------|--------------------|
+
+!!! warning "TPU does not work with the AMS, and must be loaded into the extruder directly."
+
 ## Pre-flight checklist
 
 1. Check that the build plate is clear, and cleaned.
