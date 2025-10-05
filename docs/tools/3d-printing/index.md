@@ -55,6 +55,17 @@ Please consult the full [filament material guide](https://help.prusa3d.com/filam
 
 !!! warning "TPU does not work with the AMS, and must be loaded into the extruder directly."
 
+### Ender 3v3 compatible materials
+
+The Ender 3v3 does not have an "all metal hotend" which limits the maximum print temperature to 240°C.  [What filaments are compatible?](https://www.creality.com/blog/what-filaments-can-be-used-on-a-creality-ender-3-3d-printer)
+
+| Notes           | Materials         |
+|-----------------|-------------------|
+|Ideal            |PLA, PETG, TPU     |
+|Difficult        |ABS, ASA           |
+|Not Recommended  |PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer |
+
+
 ## Pre-flight checklist
 
 1. Check that the build plate is clear, and cleaned.
