@@ -207,6 +207,8 @@ You can also manually level by jogging the Z up and down, and using the short en
 |Nic Wah      | Mojake       | 2025-08-12     |
 |Jen          | Rechner      | 2025-08-26     |
 |Cinnabar     | Rechner      | 2025-09-02     |
+|Camila       | Rechner      | 2025-10-07     |
+|Trinity      | Rechner      | 2025-10-07     |
 
 
 
