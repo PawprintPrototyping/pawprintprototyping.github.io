@@ -8,7 +8,7 @@ A non-exhaustive index of our tools
 * [80W Laser cutter](/tools/laser)
 * [Bridgeport Mill](/tools/bridgeport_mill)
 * [Mini-lathe](/tools/lathe)
-
+* [Compressor](/tools/compressor)
 # Woodworking
 * Various battery power tools
 * Table saw and router (colocated by [Incognito Wang](https://t.me/incognito_wang))
