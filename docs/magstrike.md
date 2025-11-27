@@ -8,11 +8,11 @@ The space has two computer-controlled doors in the kitchen: an outer one and an 
 
 The inner door consists of:
 
-Visionis VIS-3200 keypad, controller, and exit button kit.  [Vendor product page](https://www.visionistech.com/en/product/wireless-access-control-kit-vis-3200/)
-Visionis VIS-ML300-LED magnetic strike.  [Vendor product page](https://www.visionistech.com/en/product/indoor-electromagnetic-lock-vis-ml300led/)
-WeMos D1-Mini microcontroller.  [Vendor product page](https://www.wemos.cc/en/latest/d1/d1_mini.html)
-ESPHome [Home page](https://esphome.io/)
-CW-025 12V relay modules [Vendor product page](https://www.amazon.com/dp/B0BHLDW9G5)
+* Visionis VIS-3200 keypad, controller, and exit button kit.  [Vendor product page](https://www.visionistech.com/en/product/wireless-access-control-kit-vis-3200/)
+* Visionis VIS-ML300-LED magnetic strike.  [Vendor product page](https://www.visionistech.com/en/product/indoor-electromagnetic-lock-vis-ml300led/)
+* WeMos D1-Mini microcontroller.  [Vendor product page](https://www.wemos.cc/en/latest/d1/d1_mini.html)
+* ESPHome [Home page](https://esphome.io/)
+* CW-025 12V relay modules [Vendor product page](https://www.amazon.com/dp/B0BHLDW9G5)
 
 # Theory of Operation
 
@@ -31,8 +31,8 @@ The microcontroller senses the door open/closed status.  The VIS-3200 controller
 |   D4  O----------(blue)----------O (relay  input) O---> +12V 
 |       |                            [   RELAY    ]                      VIS-3200
 |       |                          O (relay output) O                 +------------+
-|   D3  O----(green)----+          |                +----(black)------O Open  +12V O-----(red)-----> +12V
-|       |               |          +----------(green)-----------------O Gnd    Gnd O-----(black)---> ground 
+|   D3  O----(green)----+          |                +----(green)------O Open  +12V O-----(red)-----> +12V
+|       |               |          +----------(black)-----------------O Gnd    Gnd O-----(black)---> ground 
 +-------+               |                                             |            |
                  [Door sensor]               + -------------(red)-----O Lock+      |
                         |                    |              +-(black)-O Ground     |
