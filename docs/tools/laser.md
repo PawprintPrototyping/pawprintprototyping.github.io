@@ -107,6 +107,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |Leather| 400 mm/s | 16% ||
 |Faux Leather| 425 mm/s | 15% ||
 |Tile/Stones|  145 mm/s | 18% ||
+|Stainless Steel with CerMark Ultra spray| 100 mm/s | 20% | Use acetone to prepare the surface for Cermark, and to remove the Cermark after engraving.|
 |JMP Mega Thick Laser Rubber| 100 mm/s | 50% | Set a ramp length in advanced options for best results |
 |Pizza (Papa John's)| 500 mm/s | 30% | Preserved example for future generations available on request |
 | Thrifty Board | 500 | 30 | | 
