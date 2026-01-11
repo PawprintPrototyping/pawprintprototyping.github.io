@@ -107,7 +107,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |Leather| 400 mm/s | 16% ||
 |Faux Leather| 425 mm/s | 15% ||
 |Tile/Stones|  145 mm/s | 18% ||
-|Stainless Steel with CerMark Ultra spray| 100 mm/s | 20% | Use acetone to prepare the surface for Cermark, and to remove the Cermark after engraving.|
+|Stainless Steel with CerMark Ultra spray| 100 mm/s | 20% | Use acetone to clean the surface before applying CerMark. Apply one even coat and let dry. After engraving, remove excess CerMark with acetone.|
 |JMP Mega Thick Laser Rubber| 100 mm/s | 50% | Set a ramp length in advanced options for best results |
 |Pizza (Papa John's)| 500 mm/s | 30% | Preserved example for future generations available on request |
 | Thrifty Board | 500 | 30 | | 
@@ -121,9 +121,9 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 | Acrylic                     | 1/16"     | 25 mm/s  | 18%   |                  |
 | Acrylic                     | 1/8"      | 12 mm/s  | 25%   |                  |
 | Acrylic                     | 1/4"      | 6 mm/s   | 35%   |                  |
-| Arcylic                     | 1/2"      | 4 mm/s   | 45%   |                  |
-| Arylic                      | 3/4"      | 3 mm/s   | 55%   |                  |
-| Arcylic                     | 1"        | 1 mm/s   | 60%   |                  |
+| Acrylic                     | 1/2"      | 4 mm/s   | 45%   |                  |
+| Acrylic                      | 3/4"      | 3 mm/s   | 55%   |                  |
+| Acrylic                     | 1"        | 1 mm/s   | 60%   |                  |
 | Birch wood                  | 1/16"     | 25 mm/s  | 20%   |                  |
 | Birch wood                  | 1/8"      | 12 mm/s  | 25%   |                  |
 | Birch wood                  | 1/4"      | 7 mm/s   | 30%   |                  |
