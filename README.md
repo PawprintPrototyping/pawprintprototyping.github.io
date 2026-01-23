@@ -1,9 +1,13 @@
-# Pawprint Members and Tool Wiki
+# Legacy Pawprint Members and Tool Wiki
+Current edition of the wiki is located and can be contrbuted to at https://wikijs.pawprintprototyping.org/
+
+
+
+
+## Editing Locally - Quick start
 
 The contents in the `docs` directory automagically gets published to https://wiki.pawprint.space thanks to
 [Material-mkdocs](https://squidfunk.github.io/mkdocs-material/).
-
-## Editing Locally - Quick start
 
 Prerequisites:
 * git
